@@ -1,0 +1,22 @@
+# Controle de Estoque
+Projeto desenvolvido no SENAI BETIM, para o controle de estoque.
+<h1> Controle de Estoque </h1>
+Uma padaria precisa de em sistema para controle de estoque, entrada, saida e controle de finanças, o sistema tem como finalidade, facilitar e agilizar a entrada e saída de mercadorias. Alen de gerar um relatório do fluxo de mercadoria e fluxo de caixa.
+
+# Requisitos Funcionais do Sistema
+
+RF-001: O sistema deve permitir registrar mercadoia, alterar preço e remover mercadoria. 
+
+RF-002: O sistema deve gerar um relatório do caixa e produtos geridos.
+
+
+
+# Requisitos não Funcionais
+
+RFN: 001 - Sistema deve ter acesso a internet.
+
+
+#Regras de Negócio
+
+Regra de Negócio: 001 - Registrar mercadorias, alterar preços e excluir mercadorias. Requisito Funcional - 001
+Regra de Negócio: 002 - Gerar relatório sobre o controle de caixa e mercadorias. Requisito Funcional - 002
